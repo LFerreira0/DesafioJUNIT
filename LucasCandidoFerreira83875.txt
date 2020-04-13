@@ -11,3 +11,5 @@ Seguem mudanças:
 3° Alteração - Primeira comparação utilizando culpado culpado;
 
 4º Alteração - Criação dos métodos para teste dos demais cenários;
+
+5º Alteração - Teste do métodona classe a ser corrigida proposta;
