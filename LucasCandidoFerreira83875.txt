@@ -9,3 +9,5 @@ Seguem mudanças:
 2º Alteração - Criação do Enum resposta e mudança de atribuição para comparação;
 
 3° Alteração - Primeira comparação utilizando culpado culpado;
+
+4º Alteração - Criação dos métodos para teste dos demais cenários;
