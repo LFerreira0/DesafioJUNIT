@@ -7,3 +7,5 @@ Seguem mudanças:
 1º Alteração - Mudança da linguagem de portugol para Java;
 
 2º Alteração - Criação do Enum resposta e mudança de atribuição para comparação;
+
+3° Alteração - Primeira comparação utilizando culpado culpado;
